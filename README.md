@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soojal Nag
-- 👀 I’m interested in GPU Computing and cloud Computing
-- 🌱 I’m currently learning Rust and C++
+- 👀 I’m interested in Ai/Ml and cloud Computing
+- 🌱 I’m currently learning Rust and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1. www.linkedin.com/in/soojal-nag-27b601246
                       2.2004soojal@gmail.com
