@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @Soojal Nag
-- 👀 I’m interested in Ai/Ml and cloud Computing
-- 🌱 I’m currently learning Rust and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Ai/Ml and becoming Data Scientist.
+- 🌱 I’m currently learning python and it's various libraries.
 - 📫 How to reach me 1. www.linkedin.com/in/soojal-nag-27b601246
                       2.2004soojal@gmail.com
-
-<!---
-Soojal1807/Soojal1807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
